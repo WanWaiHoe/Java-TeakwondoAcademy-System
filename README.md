@@ -20,8 +20,22 @@ This is a simple **Taekwondo Academy Management System** developed in Java using
 
 ## Screenshots
 
-![Login Page](./screenshots/screenshots1.png)
-![Menu Page](./screenshots/screenshots2.png)
-![Rigister new member](./screenshots/screenshots3.png)
-![Member Page](./screenshots/screenshots4.png)
-![Appointment Page](./screenshots/screenshots5.png)
+- **Login Page**
+
+  ![Login Page](./screenshots/screenshots1.png)
+
+- **Menu Page**
+
+  ![Menu Page](./screenshots/screenshots2.png)
+
+- **New Member Registrarion**
+
+  ![Rigister new member](./screenshots/screenshots3.png)
+
+- **Member Management Page**
+
+  ![Member Page](./screenshots/screenshots4.png)
+
+- **Appointment Management Page**
+
+  ![Appointment Page](./screenshots/screenshots5.png)
